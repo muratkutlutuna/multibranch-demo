@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Login Feature Build') {
             steps {
-                echo "Building Login Feature..."
+                echo "Building Login Feature...1"
             }
         }
     }
